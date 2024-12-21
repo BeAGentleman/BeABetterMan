@@ -12,6 +12,6 @@ graph TD
     B --> D[Acknowledgment and Clarification]
     C --> E[Escalation]
 
-    click B href "../solutions/solution-1.md" "Path 1: Acknowledgment and Clarification"
-    click C href "../scenarios/scenario-2.md" "Path 2: Escalation"
+    click B href "solutions/solution-1.md" "Path 1: Acknowledgment and Clarification"
+    click C href "scenarios/scenario-2.md" "Path 2: Escalation"
 
